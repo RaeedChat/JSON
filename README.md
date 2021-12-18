@@ -1,4 +1,4 @@
-# RaeedChat Settings 
+# RaeedChat Profile Settings
 
 ## Example 
 
