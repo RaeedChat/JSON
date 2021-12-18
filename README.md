@@ -7,8 +7,7 @@
   "settings":{
     "AllowAnimations": false,
     "AllowDev": false,
-    "TextZoom":"Big",
-    "LineSpacing": "1.5"
+    "TextZoom":"Big"
   }
  }
 ```
