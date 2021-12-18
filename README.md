@@ -32,5 +32,4 @@ Property List
 | `AllowAnimations` | `Boolean` | `settings` | This sets weather or not css animations will be played on pages                                      |
 | `AllowDev`        | `Boolean` | `settings` | This sets weather or not developer mode is enabled                                                   |
 | `TextZoom`        | `String`  | `settings` | This can be set to either "Normal", "Big","Bigger", or "Biggest", this controls the zoom of the text |
-| `LineSpacing`     | `String`  | `settings` | Line spacing sets spacing between lines, can be "single", "1.5", or "double"                         |
 
